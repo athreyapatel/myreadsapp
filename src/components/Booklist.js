@@ -33,4 +33,4 @@ class Booklist extends Component {
   }
 }
 
-export default Booklist;
+export default Booklist
